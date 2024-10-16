@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/MyEncryptor.dir/main.c.o CMakeFiles/MyEncryptor.dir/encryption.c.o CMakeFiles/MyEncryptor.dir/decryption.c.o CMakeFiles/MyEncryptor.dir/keygen.c.o -o MyEncryptor  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
