@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 echo "Encryption..."
 echo "Please enter password"
 read passwd
