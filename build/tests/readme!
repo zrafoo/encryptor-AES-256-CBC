@@ -1,0 +1,5 @@
+copy this files to build directory if needed
+In tests directory:
+cp * ..
+In build directory:
+cp tests/* .
